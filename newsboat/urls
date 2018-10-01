@@ -1,0 +1,12 @@
+https://www.techmeme.com/feed.xml tech news
+https://feeds.feedburner.com/CoinDesk crypto news
+https://blog.acolyer.org/feed research summaries
+https://www.codesimplicity.com/feed/atom/ software blog !MaxKanatAlexander
+https://www.joelonsoftware.com/feed/ software blog !JoelSpolsky
+https://martinfowler.com/feed.atom software blog !MartinFowler
+https://blog.cleancoder.com/atom.xml software blog !RobertMartin
+https://ericsink.com/rss.xml software blog !EricSink
+http://syndication.thedailywtf.com/TheDailyWtf software blog !WTF
+http://www.exampler.com/blog/feed software blog !BrianMarick
+
+"query:Software Blogs:(tags # \"software\") and (tags # \"blog\")"

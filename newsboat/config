@@ -1,0 +1,11 @@
+color background            color255 color234
+color listnormal            color240 color234
+color listfocus             color220 color234 bold
+color listnormal_unread     color136 color234
+color listfocus_unread      color220 color234 bold
+color info                  color255 color234 bold
+color article               color136 color234
+
+prepopulate-query-feeds yes
+
+browser "`echo $BROWSER`"
