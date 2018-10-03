@@ -1,12 +1,13 @@
 https://www.techmeme.com/feed.xml tech news
 https://feeds.feedburner.com/CoinDesk crypto news
-https://blog.acolyer.org/feed software blog !AdrianCoyler
-https://www.codesimplicity.com/feed/atom/ software blog !MaxKanatAlexander
-https://www.joelonsoftware.com/feed/ software blog !JoelSpolsky
-https://martinfowler.com/feed.atom software blog !MartinFowler
-https://blog.cleancoder.com/atom.xml software blog !RobertMartin
-https://ericsink.com/rss.xml software blog !EricSink
-http://syndication.thedailywtf.com/TheDailyWtf software blog !WTF
-http://www.exampler.com/blog/feed software blog !BrianMarick
+https://blog.acolyer.org/feed personal software blog !AdrianCoyler
+https://www.codesimplicity.com/feed/atom/ personal software blog !MaxKanatAlexander
+https://www.joelonsoftware.com/feed/ personal software blog !JoelSpolsky
+https://martinfowler.com/feed.atom personal software blog !MartinFowler
+https://blog.cleancoder.com/atom.xml personal software blog !RobertMartin
+https://ericsink.com/rss.xml personal software blog !EricSink
+http://syndication.thedailywtf.com/TheDailyWtf generic software blog !WTF
+http://www.exampler.com/blog/feed personal software blog !BrianMarick
+https://medium.com/feed/@hackernoon generic software blog !HackerNoon
 
 "query:Software Blogs:(tags # \"software\") and (tags # \"blog\")"
